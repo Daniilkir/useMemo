@@ -8,10 +8,9 @@ function App() {
 
   return (
     <div className="App">
-      <Memo></Memo>
-      <FilterList modalVisibility={setmodalVisibility}></FilterList>
-      {modalVisibility &&
-        <Modal modalVisibility={setmodalVisibility} />}
+      <Memo/>
+      <FilterList/>
+
     </div>
   );
 }
