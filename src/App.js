@@ -1,15 +1,21 @@
 import './App.css';
 import Memo from './components/Memo';
 import FilterList from './components/FilterList';
-import Modal from './components/Modal';
-import { useState } from 'react';
+import Counter from './components/Counter/Counter';
+import GitHubList from './components/GitHubList';
+import CounterHookLibrary from './components/CounterHookLibrary';
+import SliderHookLibrary from './components/SliderHookLibrary';
+
 function App() {
-  const [modalVisibility, setmodalVisibility] = useState(false)
 
   return (
     <div className="App">
       <Memo/>
-      <FilterList/>
+      <Counter/>
+      {/* <FilterList/> */}
+      <GitHubList/>
+      {/* <CounterHookLibrary/> */}
+      {/* <SliderHookLibrary/> */}
 
     </div>
   );
