@@ -1,0 +1,14 @@
+
+.List{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.imageListItem{
+    max-width: 250px;
+    max-height: 250px;
+}
+.input{
+    width: 100px;
+    height: 25px;
+}

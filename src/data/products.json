@@ -1,0 +1,38 @@
+[
+    {
+        "price": 10,
+        "name": "apple",
+        "id": 1,
+        "src": "https://i5.walmartimages.com/seo/Fresh-Gala-Apple-Each_f46d4fa7-6108-4450-a610-cc95a1ca28c5_3.38c2c5b2f003a0aafa618f3b4dc3cbbd.jpeg"
+    },
+    {
+        "price": 15,
+        "name": "orange",
+        "id": 2,
+        "src": "https://www.fervalle.com/wp-content/uploads/2022/07/transparent-orange-apple5eacfeae85ac29.7815306015883956945475.png"
+    },
+    {
+        "price": 20,
+        "name": "banana",
+        "id": 3,
+        "src": "https://target.scene7.com/is/image/Target/GUEST_cf4773e6-afec-4aa1-89e7-74b7dfc09973?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+        "price": 30,
+        "name": "meat",
+        "id": 4,
+        "src": "https://media.wired.com/photos/5b493b6b0ea5ef37fa24f6f6/1:1/w_1800,h_1800,c_limit/meat-80049790.jpg"
+    },
+    {
+        "price": 40,
+        "name": "meat",
+        "id": 5,
+        "src": "https://media.wired.com/photos/5b493b6b0ea5ef37fa24f6f6/1:1/w_1800,h_1800,c_limit/meat-80049790.jpg"
+    },
+    {
+        "price": 40,
+        "name": "banana",
+        "id": 5,
+        "src": "https://target.scene7.com/is/image/Target/GUEST_cf4773e6-afec-4aa1-89e7-74b7dfc09973?wid=488&hei=488&fmt=pjpeg"
+    }
+]
